@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "pyrdf4j"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["volker <volker.jaenisch@inqbus.de>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-SPARQLWrapper = "^1.8.5"
+SPARQLWrapper = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
